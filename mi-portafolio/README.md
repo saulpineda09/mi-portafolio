@@ -1,2 +1,2 @@
-# proyecto de mi portafolio 
-color azul de la empresa tal color 
+# proyecto de Mi Portafolio 
+Arriba el cruz azul  
