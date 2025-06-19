@@ -1,2 +1,3 @@
-# proyecto de mi portafolio 
-color azul de la empresa tal color 
+# proyecto de Mi Portafolio 
+
+About me es una nueva pagina   
