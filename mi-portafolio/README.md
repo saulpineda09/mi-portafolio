@@ -1,2 +1,3 @@
 # proyecto de Mi Portafolio 
-Arriba el cruz azul  
+
+About me es una nueva pagina   
